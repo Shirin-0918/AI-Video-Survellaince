@@ -1,0 +1,28 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#startBtn , #objectNum , #status{
+    font-size: 18px;
+}
+.copyrightFooter{
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    background-color: #035a83;
+    line-height: 3;
+    font-size: 18px;
+    font-family:monospace;
+    text-align: center;
+}
+canvas{
+    border-right:#035a83 5px ridge ;
+    border-left: rgb(248, 131, 2) 5px ridge;
+    border-top:#035a83 5px ridge ;
+    border-bottom: rgb(248, 131, 2) 5px ridge;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px;
+    margin-top:130px ;
+}
